@@ -2,4 +2,4 @@
 
 Welcome to Windows IoT Validation Repository
 
-Place your project in this repo.
+Place your files in this repo.
